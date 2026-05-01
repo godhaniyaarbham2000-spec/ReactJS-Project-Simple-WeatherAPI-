@@ -29,8 +29,8 @@ User can search any city and get instant weather details like temperature, humid
 ---
 
 ## 📂 Project Structure
-
-Weather-App/
+```
+ReactJS-Project-Simple-WeatherAPI/
 │
 ├── src/
 │   ├── App.jsx        # Main application logic
@@ -44,19 +44,19 @@ Weather-App/
 ├── .env               # API key
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## ⚙️ How to Run This Project
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/weather-app.git 
+git clone https://github.com/godhaniyaarbham2000-spec/ReactJS-Project-Simple-WeatherAPI.git
 ```
 
 ### 2. Move to project folder
 ```
-cd weather-app  
+cd ReactJS-Project-Simple-WeatherAPI
 ```
 
 ### 3. Install dependencies
