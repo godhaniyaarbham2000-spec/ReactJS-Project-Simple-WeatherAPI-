@@ -1,7 +1,7 @@
 # 🌦 React Weather App Project
 
 A clean and simple **React + Vite Weather Application** that fetches real-time weather data using OpenWeatherMap API.  
-User can search any city and get instant weather details like temperature, humidity, and condition.
+User can search any city and get instant weather details like temperature, humidity, and condition. 
 
 ---
 
